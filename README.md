@@ -9,7 +9,9 @@ Mentor/Advisor: Dr. Berk Calli(bcalli@wpi.edu)
 
 The goal of this work is to develop a novel vision-based grasping system for unknown objects based placed on a table top. The approach integrates a robust object segmentation and grasp point detection for every object on a table in front of a 7-DOF robot arm. The algorithm analyzes the top surface of every object and outputs the generated grasp points and the required gripper pose to grasp the desired object. The first experimental results show that the presented automated grasping system is able to generate successful grasp points for a wide range of different objects.
 
-![table](https://user-images.githubusercontent.com/115124698/211174977-3c102df9-e644-4627-9752-bf27dfc76bb7.png)
+![objects](https://user-images.githubusercontent.com/115124698/211175146-01cb67fc-793a-4e6e-a3f8-a632c1b66809.png)
+
+
 
 This implements two Algorithmic approaches : A Geometric Aprpoach and A Heurestic Approach to find the optimal Grasp points. 
 
